@@ -1,2 +1,2 @@
 # Project1HowGreen
-Image storage
+DIVAS Images storage
